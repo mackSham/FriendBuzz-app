@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FriendBuzz</string>
+    <string name="slide_1_title">FriendBuzz App!</string>
+    <string name="slide_1_desc">It helps you connect with your loved ones from all around the world.</string>
+
+    <string name="slide_2_title">10 Questions 100 Seconds!</string>
+    <string name="slide_2_desc">All you have to do is to answer 10 simple question in 100 seconds.Get 10 seconds for each question.</string>
+
+    <string name="slide_3_title">Win Cash Prizes! In Patym everyday.</string>
+    <string name="slide_3_desc">Giving all correct answer wills can earn you upto to Rs 10000 daily in your Paytm account.That too everyday. </string>
+
+
+    <string name="my_preference">com.example.macksham.myPref</string>
+    <string name="my_preference_key">com.example.macksham.myPrefKey</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="channel_name">FriendBuzz</string>
+    <string name="channel_description">Chatting App</string>
+</resources>

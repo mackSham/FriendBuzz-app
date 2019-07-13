@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967806877777",
+    "firebase_url": "https://friendbuzz-32755.firebaseio.com",
+    "project_id": "friendbuzz-32755",
+    "storage_bucket": "friendbuzz-32755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967806877777:android:f3cd3d0a17fff24d",
+        "android_client_info": {
+          "package_name": "com.example.macksham.friendbuzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967806877777-le9jmp4f33b60ll91r6d4ep2kg22kb6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.macksham.friendbuzz",
+            "certificate_hash": "9bd17fc1cb7b907efdc6a90e320b1c83da106799"
+          }
+        },
+        {
+          "client_id": "967806877777-evdl3s7jblec3rgg94llbtubdlhsr6en.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHLTuR3iFN4KMVPS73Kt8DeTST8tbdmxA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967806877777-evdl3s7jblec3rgg94llbtubdlhsr6en.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

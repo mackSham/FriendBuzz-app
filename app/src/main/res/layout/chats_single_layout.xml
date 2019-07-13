@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/convo_profile_pic"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/default_avatar" />
+
+    <TextView
+        android:id="@+id/convo_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="10dp"
+        android:padding="2dp"
+        android:text="DisplayName"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/convo_messages"
+        android:layout_width="234dp"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/convo_name"
+        android:layout_below="@+id/convo_name"
+        android:layout_marginEnd="10dp"
+        android:padding="2dp"
+        android:text="TextView"
+        android:textSize="14sp" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="73dp"
+        android:background="#c0c0c0" />
+
+    <ImageView
+        android:id="@+id/convo_online"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="53dp"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/online" />
+</RelativeLayout>
